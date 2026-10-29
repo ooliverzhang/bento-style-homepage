@@ -1,4 +1,4 @@
-# ooliver - 主页（先已停用）
+# ooliver - 主页（现已停用）
 
 > 一个中学生、OIer 的个人主页，改自 [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me)，基于 Next.js 16 构建。
 
